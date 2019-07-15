@@ -1,15 +1,15 @@
-# [Manage Node Application Environment](#)
+# [Log Node Application Activity](https://medium.com/@bmshamsnahid/log-activity-in-node-application-44f9bc2ac46b)
 
-Step by Step [Guideline](#) 
+Step by Step [Guideline](https://medium.com/@bmshamsnahid/log-activity-in-node-application-44f9bc2ac46b) 
 
 ## Objective
 
-* `logging` activity in node app.
-* Create specific log file every hour
-* Easy configure log file round (Hourly, daily)
-* Easy configure log file size
-* Delete log files after specific days
-* Environment specific log structure
+  * `logging` activity in node app.
+  * Create specific log file every hour
+  * Easy configure log file round (Hourly, daily)
+  * Easy configure log file size
+  * Delete log files after specific days
+  * Environment specific log structure
 
 
 ## Run application
